@@ -2,7 +2,6 @@
 
 ## 2nd Workshop - Feature engineering and simple modelling
 
-### Lovre Pešut & Marko Dobrinić
 
 - You can find the dataset in question here: [NASA Turbofan Engine Degradation Simulation Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/) 
 
