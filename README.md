@@ -9,6 +9,7 @@
 - The DataSet needs to be unzipped in the same location as jupyter notebooks with the dir name **CMAPSSData**, otherwise please alter the locations of the dataset in the notebooks.
 
 
-**Part I** of the workshop: [Feature Engineering](./TurboFanPredictiveMaintenanceFeatureEngineering.ipynb')
+**Part I** of the workshop: [Feature Engineering](https://github.com/MarkoDobrinic/LumenDS-FeatureEngineeringWorkshop/blob/master/TurboFanPredictiveMaintenanceFeatureEngineering.ipynb)
 
-**Part II** of the workshop: [Preparation and Modelling](./TurboFanPredictiveMaintenancePreparationAndModelling.ipynb')
+
+**Part II** of the workshop: [Preparation and Modelling](https://github.com/MarkoDobrinic/LumenDS-FeatureEngineeringWorkshop/blob/master/TurboFanPredictiveMaintenancePreparationAndModelling.ipynb)
